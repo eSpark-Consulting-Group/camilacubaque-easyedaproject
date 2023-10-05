@@ -1,0 +1,13 @@
+We have a prototype design which we are looking to improve in a new revision in preparation for production in larger quantities.
+
+The PCBA is a small (12.5 x 10.5 mm), 2-layer board. The PCBA has two limit switches, a Bluetooth SoC, and battery.
+
+This project will be comprised of 6 goals:
+1. Replace the 2 existing switches with replacements.
+2. Incorporate a soft-latching circuit (or similar) to ensure the SoC is connected to battery power when one of the switches is open, and that a long press of the same switch disconnects battery power.
+3. Incorporate pads (or similar) to facilitate programming in production.
+4. Evaluate battery holder selection.
+5. Board review for assembly cost reduction.
+6. Generation of manufacturing files and support of prototype production.
+
+We can provide existing BOM and EasyEDA project files.
